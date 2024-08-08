@@ -1,0 +1,31 @@
+{
+  "name": "pokemon-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build-client && npm run build-functions",
+    "build-client": "cd client && npm install && npm run build",
+    "build-functions": "netlify-lambda build api",
+    "start": "netlify dev",
+    "dev" : "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "netlify-lambda": "^2.0.0",
+    "nodemon": "^3.1.4",
+    "react-router-dom": "^6.26.0",
+    "serverless-http": "^2.3.2",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^2.0.0"
+  }
+}

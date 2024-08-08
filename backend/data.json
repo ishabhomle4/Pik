@@ -1,0 +1,62 @@
+[
+  {
+    "pokemonOwnerName": "user3",
+    "pokemonName": "ivysaur",
+    "pokemonAbility": "chlorophyll",
+    "initialPositionX": "12",
+    "initialPositionY": "9",
+    "speed": "10",
+    "direction": "right",
+    "id": "1723039063432"
+  },
+  {
+    "pokemonOwnerName": "user2",
+    "pokemonName": "pikachu",
+    "pokemonAbility": "lightning-rod",
+    "initialPositionX": "7",
+    "initialPositionY": "8",
+    "speed": "20",
+    "direction": "down",
+    "id": "1723039106700"
+  },
+  {
+    "pokemonOwnerName": "user 1 ",
+    "pokemonName": "squirtle",
+    "pokemonAbility": "rain-dish",
+    "initialPositionX": "5.5",
+    "initialPositionY": "6",
+    "speed": "50",
+    "direction": "right",
+    "id": "1723039186674"
+  },
+  {
+    "pokemonOwnerName": "ishaa",
+    "pokemonName": "wartortle",
+    "pokemonAbility": "rain-dish",
+    "initialPositionX": "10",
+    "initialPositionY": "12",
+    "speed": "30",
+    "direction": "left",
+    "id": "1723039266232"
+  },
+  {
+    "pokemonOwnerName": "ufhsd",
+    "pokemonName": "diglett",
+    "pokemonAbility": "chlorophy",
+    "initialPositionX": "8",
+    "initialPositionY": "12",
+    "speed": "15",
+    "direction": "right",
+    "id": "1723039979403"
+  },
+  {
+    "id": "dcb9fd78-a06a-4d6d-a997-36670e3a1e5b",
+    "pokemonOwnerName": "user3",
+    "pokemonName": "bulbasa",
+    "pokemonAbility": "chlorophy",
+    "initialPositionX": "2",
+    "initialPositionY": "7",
+    "speed": "15",
+    "direction": "right"
+  }
+]
